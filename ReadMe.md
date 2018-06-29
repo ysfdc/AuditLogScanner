@@ -1,5 +1,5 @@
 ## Overview and Business Case: 
-https://sf9to5.com/
+https://sf9to5.com/2018/06/28/monitor-setup-audit-trail-email-alerts/
 
 ## Usage 
 * The auditLogScanner class should be used in conjuntion with the auditLogScannerCron
