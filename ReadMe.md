@@ -23,6 +23,7 @@ to generate an email to the specified users.
 
 This is a scheduable class that invokes the auditLogScanner class
 The Scheduler used was: 
+
 	System.schedule('Scheduled Job 1', '0 0 * * * ?', new auditLogScannerCron ());
 
 
